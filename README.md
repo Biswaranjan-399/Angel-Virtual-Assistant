@@ -26,9 +26,7 @@ You need **Python 3** installed and your own personal API keys to run the assist
 ### Installation
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone [your_repo_link]
-    ```
+   
 2.  **Install Dependencies:**
     ```bash
     pip install speechrecognition pyttsx3 requests google-genai
